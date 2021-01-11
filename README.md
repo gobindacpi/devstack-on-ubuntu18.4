@@ -2,7 +2,9 @@
 ---
 DevStack Install on Ubuntu18.4
 ---
+---
 Step-1: Update your os and reboot
+---
 ---
 apt-get update && reboot
 ---
